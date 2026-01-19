@@ -29,6 +29,7 @@ GO
 USE DataWarehouse;
 GO
 
+--Create Schemas
 CREATE SCHEMA bronze;
 GO
 
